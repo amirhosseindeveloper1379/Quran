@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/Quran"
+        android:title="@string/Quran"
+        android:icon="@drawable/q"
+        android:checked="true"
+        android:iconTint="@color/white"
+        />
+
+    <item
+        android:id="@+id/Supplication"
+        android:title="@string/Supplication"
+        android:icon="@drawable/suplication"
+        android:iconTint="@color/white"/>
+
+    <item
+        android:id="@+id/Pilgrimage"
+        android:title="@string/Pilgrimage"
+        android:icon="@drawable/mosque"
+        android:iconTint="@color/white"/>
+
+    <item
+        android:id="@+id/Pursuitofprayer"
+        android:title="@string/Pursuitofprayer"
+        android:icon="@drawable/book"
+        android:iconTint="@color/white"/>
+
+
+</menu>

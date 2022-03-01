@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quran_Prayers_pilgrimages</string>
+
+    //NavigationMenu
+    <string name="Quran">"قرآن"</string>
+    <string name="Supplication">"ادعیه"</string>
+    <string name="Pilgrimage">"زیارات"</string>
+    <string name="Pursuitofprayer">"تعقیبات نماز"</string>
+
+    //Slideing Menu
+    <string name="Home">خانه</string>
+    <string name="Favorites">علاقه مندی ها</string>
+    <string name="Donate">حمایت از برنامه</string>
+    <string name="Commenting">نظر دادن</string>
+    <string name="Settings">تنظیمات</string>
+    <string name="AboutUs">درباره ما</string>
+    <string name="Instagram">اینستاگرام</string>
+    <string name="Exit">خروج</string>
+</resources>

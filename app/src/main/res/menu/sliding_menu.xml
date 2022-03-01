@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/Favorites"
+        android:title="@string/Favorites"
+        android:icon="@drawable/ic_baseline_favorite_24" />
+
+    <item
+        android:id="@+id/Donate"
+        android:title="@string/Donate"
+        android:icon="@drawable/ic_baseline_attach_money_24" />
+
+    <item
+        android:id="@+id/Commenting"
+        android:title="@string/Commenting"
+        android:icon="@drawable/ic_baseline_star_24" />
+
+
+    <item
+        android:id="@+id/Settings"
+        android:title="@string/Settings"
+        android:icon="@drawable/ic_baseline_settings_24" />
+
+    <item
+        android:id="@+id/AboutUs"
+        android:title="@string/AboutUs"
+        android:icon="@drawable/ic_baseline_info_24" />
+
+    <item
+        android:id="@+id/Instagram"
+        android:title="@string/Instagram"
+        android:icon="@drawable/instagram" />
+
+    <item
+        android:id="@+id/Exit"
+        android:title="@string/Exit"
+        android:icon="@drawable/ic_baseline_exit_to_app_24" />
+
+
+</menu>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quran_Prayers_pilgrimages</string>
+
+    //NavigationMenu
+    <string name="Quran">"Quran"</string>
+    <string name="Supplication">"Supplication"</string>
+    <string name="Pilgrimage">"Pilgrimage"</string>
+    <string name="Pursuitofprayer">"Pursuit of prayer"</string>
+
+    //Slideing Menu
+    <string name="Home">Home</string>
+    <string name="Favorites">Favorites</string>
+    <string name="Donate">Donate</string>
+    <string name="Commenting">Commenting</string>
+    <string name="Settings">Settings</string>
+    <string name="AboutUs">About Us</string>
+    <string name="Instagram">Instagram</string>
+    <string name="Exit">Exit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
