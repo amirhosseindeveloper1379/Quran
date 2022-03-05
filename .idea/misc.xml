@@ -4,12 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/AmirAM/AndroidStudioProjects/Quran_Prayers_pilgrimages/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1695" />
+        <entry key="..\:/Users/AmirAM/AndroidStudioProjects/Quran_Prayers_pilgrimages/app/src/main/res/drawable/ic_baseline_play_circle_outline_24.xml" value="0.1695" />
         <entry key="..\:/Users/AmirAM/AndroidStudioProjects/Quran_Prayers_pilgrimages/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/AmirAM/AndroidStudioProjects/Quran_Prayers_pilgrimages/app/src/main/res/layout/fragment_quran__fragments.xml" value="0.196875" />
         <entry key="..\:/Users/AmirAM/AndroidStudioProjects/Quran_Prayers_pilgrimages/app/src/main/res/layout/header_menu.xml" value="0.196875" />
         <entry key="..\:/Users/AmirAM/AndroidStudioProjects/Quran_Prayers_pilgrimages/app/src/main/res/layout/pilgrimage_fragment.xml" value="0.196875" />
         <entry key="..\:/Users/AmirAM/AndroidStudioProjects/Quran_Prayers_pilgrimages/app/src/main/res/layout/pursuitofprayer_fragment.xml" value="0.196875" />
         <entry key="..\:/Users/AmirAM/AndroidStudioProjects/Quran_Prayers_pilgrimages/app/src/main/res/layout/quran__fragments_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/AmirAM/AndroidStudioProjects/Quran_Prayers_pilgrimages/app/src/main/res/layout/quran_fragment.xml" value="0.22" />
         <entry key="..\:/Users/AmirAM/AndroidStudioProjects/Quran_Prayers_pilgrimages/app/src/main/res/layout/supplication_fragment.xml" value="0.196875" />
         <entry key="..\:/Users/AmirAM/AndroidStudioProjects/Quran_Prayers_pilgrimages/app/src/main/res/menu/navigation_menu.xml" value="0.196875" />
         <entry key="..\:/Users/AmirAM/AndroidStudioProjects/Quran_Prayers_pilgrimages/app/src/main/res/menu/sliding_menu.xml" value="0.196875" />
